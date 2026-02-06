@@ -5,6 +5,8 @@ Cyber-AutoAgent - https://github.com/westonbrown/Cyber-AutoAgent
 
 Artemis - https://github.com/Stanford-Trinity/ARTEMIS 
 
+Boxpwnr - https://github.com/0ca/BoxPwnr
+
 Raptor - https://github.com/gadievron/raptor
 
 Strix - https://github.com/usestrix/strix 

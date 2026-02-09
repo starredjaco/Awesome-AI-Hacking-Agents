@@ -122,6 +122,7 @@ https://github.com/protectai/vulnhuntr
 # Other (WIP)
 
 ToolSafe https://github.com/MurrayTom/ToolSafe
-AgentFence https://github.com/KeygraphHQ/shannon?utm_source=chatgpt.com 
+AgentFence
+
 
 

@@ -211,18 +211,33 @@ https://github.com/MuWinds/BUUCTF_Agent
 # Enterprise/Closed Source (WIP) 
 
 
-|                                                      |                                                                                                                                               |                                                                                                |      |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---- |
-| Theori (xint)                                        | [https://xint.io/](https://xint.io/), [https://code.xint.io/](https://code.xint.io/)                                  | Offensive security research firm; xint AI-driven pentesting platform.                          |      |
-| KinoSec.ai Agent                                     | [https://kinosec.ai/](https://kinosec.ai/)                                                                             | Commercial autonomous "AI hacker" agent/service.                                               | todo |
-| XBOW                                                 | [https://xbow.com](https://xbow.com)                                                                                   | Commercial autonomous offensive security platform (agent swarms; industry benchmark presence). |      |
-| Penligent                                            | [https://penligent.ai](https://penligent.ai)                                                                           | Commercial “agentic pentesting” product/site.                                                  |      |
-| RunSybil (Sybil)                                     | [https://www.runsybil.com](https://www.runsybil.com)                                                                   | Commercial AI-driven pentester (“Sybil”) probing web targets for vulns.                        |      |
-| Terra Security                                       | [https://www.terra.security](https://www.terra.security)                                                               | Agentic AI continuous PTaaS (swarm of agents + human oversight).                               |      |
-| Aikido AI Pentest                                    | [https://www.aikido.dev/attack/aipentest](https://www.aikido.dev/attack/aipentest)                                     | Commercial AI pentesting with autonomous agents and audit-grade reporting.                     |      |
-| Big Sleep / Project Naptime (Google)<br><br><br><br> | https://projectzero.googleblog.com/2024/06/project-naptime.html and https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html | Google Project Zero + DeepMind agentic vuln discovery work (not open-source).                  |      |
-|                                                      |                                                                                                                                               |                                                                                                |      |
-
+* Aikido https://www.aikido.dev/attack/aipentest
+* AISLE https://aisle.com/
+* Google Project Zero / DeepMind — Project Naptime → Big Sleep (research program)
+https://projectzero.googleblog.com/2024/06/project-naptime.html
+https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
+* CalypsoAI https://calypsoai.com/
+* Casco https://casco.com/
+* Dreadnode https://dreadnode.io/
+* Harmony Intelligence https://www.harmonyintelligence.com/
+* Hex Security https://hex.co/
+* Horizon3.ai — https://horizon3.ai/
+* KinoSec https://kinosec.ai/
+* MindFort https://mindfort.ai/
+* Mindgard https://mindgard.ai/
+* Novee https://novee.security/
+* Penligent https://penligent.ai/
+* Pentera https://pentera.io/
+* PentX https://pentx.ai/
+* RunSybil https://www.runsybil.com
+* SPLX https://splx.ai/
+* Terra Security https://www.terra.security
+* Theori — Xint / Xint Code
+https://xint.io/
+https://code.xint.io/
+https://theori.io/
+* Veria Labs https://verialabs.com/
+* XBOW https://xbow.com
 
 
 # Papers list (WIP) 

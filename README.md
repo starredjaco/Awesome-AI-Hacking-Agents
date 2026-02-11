@@ -208,7 +208,7 @@ https://github.com/C1JC/AgentNote
 https://github.com/MuWinds/BUUCTF_Agent
 
 
-# Closed Source (WIP) 
+# Enterprise/Closed Source (WIP) 
 
 
 | KinoSec.ai Agent                                     | [https://kinosec.ai/](https://kinosec.ai/?utm_source=chatgpt.com)                                                                             | Commercial autonomous “AI hacker” agent/service.                                               | todo |

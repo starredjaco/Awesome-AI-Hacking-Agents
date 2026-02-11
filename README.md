@@ -211,8 +211,10 @@ https://github.com/MuWinds/BUUCTF_Agent
 # Enterprise/Closed Source (WIP) 
 
 
-| KinoSec.ai Agent                                     | [https://kinosec.ai/](https://kinosec.ai/?utm_source=chatgpt.com)                                                                             | Commercial autonomous “AI hacker” agent/service.                                               | todo |
+|                                                      |                                                                                                                                               |                                                                                                |      |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---- |
+| Theori (xint)                                        | [https://xint.io/](https://xint.io/), [https://code.xint.io/](https://code.xint.io/)                                  | Offensive security research firm; xint AI-driven pentesting platform.                          |      |
+| KinoSec.ai Agent                                     | [https://kinosec.ai/](https://kinosec.ai/)                                                                             | Commercial autonomous "AI hacker" agent/service.                                               | todo |
 | XBOW                                                 | [https://xbow.com](https://xbow.com)                                                                                   | Commercial autonomous offensive security platform (agent swarms; industry benchmark presence). |      |
 | Penligent                                            | [https://penligent.ai](https://penligent.ai)                                                                           | Commercial “agentic pentesting” product/site.                                                  |      |
 | RunSybil (Sybil)                                     | [https://www.runsybil.com](https://www.runsybil.com)                                                                   | Commercial AI-driven pentester (“Sybil”) probing web targets for vulns.                        |      |
@@ -220,6 +222,7 @@ https://github.com/MuWinds/BUUCTF_Agent
 | Aikido AI Pentest                                    | [https://www.aikido.dev/attack/aipentest](https://www.aikido.dev/attack/aipentest)                                     | Commercial AI pentesting with autonomous agents and audit-grade reporting.                     |      |
 | Big Sleep / Project Naptime (Google)<br><br><br><br> | https://projectzero.googleblog.com/2024/06/project-naptime.html and https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html | Google Project Zero + DeepMind agentic vuln discovery work (not open-source).                  |      |
 |                                                      |                                                                                                                                               |                                                                                                |      |
+
 
 
 # Papers list (WIP) 

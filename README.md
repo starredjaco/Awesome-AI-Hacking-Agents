@@ -23,7 +23,7 @@ https://docs.devin.ai/work-with-devin/deepwiki-mcp
 
 These are sorted by release date. 
 
-Each github repo also contains a link to Google Code wiki which provides detailed documentation and a Gemini chat interface to ask questions about the repo. (I've requested all of the columns without a link and will update once google processes them). 
+Each github repo also contains a link to Devin deep wiki and Google Code wiki which provides detailed documentation and a Gemini chat interface to ask questions about the repo. (I've requested all of the columns without a link and will update once google processes them). 
 
 I'm still updating this list with benchmark scores and more comments. 
 

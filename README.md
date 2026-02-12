@@ -1,6 +1,8 @@
 # Awesome-AI-Hacking-Agents
 List of AI Hacking Agents - WORK IN PROGRESS PLEASE CONTRIBUTE!! I know I'm missing many companies and several open source. I'm going to add benchmark results for the few that have results. 
 
+THESE REPOS ARE FOR EDUCATIONAL AND AUTHORIZED SECURITY TESTING PURPOSES ONLY. 
+
 Will be posting a comparative feature analysis soon (memory types, tools, etc). 
 
 Come chat about AI hacking agents in the AI Hacking Discord https://discord.com/channels/1422426099391922258/1422426100067471462/1469143844216897588

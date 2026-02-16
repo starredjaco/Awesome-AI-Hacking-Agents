@@ -244,6 +244,7 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 * MindFort https://mindfort.ai/
 * Mindgard https://mindgard.ai/
 * Novee https://novee.security/
+* Origin https://www.originhq.com/ / Prelude https://www.preludesecurity.com/
 * Penligent https://penligent.ai/
 * Pensar https://www.pensarai.app/
 * Pentera https://pentera.io/

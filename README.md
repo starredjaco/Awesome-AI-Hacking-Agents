@@ -275,7 +275,10 @@ https://projectzero.googleblog.com/2024/10/from-naptime-to-big-sleep.html
 
 # Todo (WIP)
 https://github.com/protectai/vulnhuntr
+
 https://github.com/rivian/ai-sast
+
+https://github.com/CyberStrikeus/CyberStrike
 
 # Other (WIP)
 
